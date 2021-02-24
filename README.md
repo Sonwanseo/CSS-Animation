@@ -7,3 +7,4 @@ CSS-Animation
 ### These are what I made
 - [CupOfTea](https://sonwanseo.github.io/CSS-Animation/CupOfTea/)
 - [WavyCircleLoader](https://sonwanseo.github.io/CSS-Animation/WavyCircleLoader/)
+- [AnimeJS](https://sonwanseo.github.io/CSS-Animation/AnimeJS/)
