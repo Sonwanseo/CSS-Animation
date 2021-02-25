@@ -8,3 +8,4 @@ CSS-Animation
 - [CupOfTea](https://sonwanseo.github.io/CSS-Animation/CupOfTea/)
 - [WavyCircleLoader](https://sonwanseo.github.io/CSS-Animation/WavyCircleLoader/)
 - [AnimeJS](https://sonwanseo.github.io/CSS-Animation/AnimeJS/)
+- [ImageLoop](https://sonwanseo.github.io/CSS-Animation/ImageLoop/)
