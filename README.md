@@ -15,3 +15,4 @@ CSS-Animation
 - [NeonButton](https://sonwanseo.github.io/CSS-Animation/NeonButton/)
 - [3DRotation](https://sonwanseo.github.io/CSS-Animation/3DRotation/)
 - [FollowingEyes](https://sonwanseo.github.io/CSS-Animation/FollowingEyes/)
+- [ElasticLine](https://sonwanseo.github.io/CSS-Animation/ElasticLine/)
