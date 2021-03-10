@@ -21,3 +21,4 @@ CSS-Animation
 - [PulseBackground](https://sonwanseo.github.io/CSS-Animation/PulseBackground/)
 - [RainAnimation](https://sonwanseo.github.io/CSS-Animation/RainAnimation/)
 - [CloudAnimation](https://sonwanseo.github.io/CSS-Animation/CloudAnimation/)
+- [StrokeLoader](https://sonwanseo.github.io/CSS-Animation/StrokeLoader/)
