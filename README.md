@@ -23,3 +23,4 @@ CSS-Animation
 - [CloudAnimation](https://sonwanseo.github.io/CSS-Animation/CloudAnimation/)
 - [StrokeLoader](https://sonwanseo.github.io/CSS-Animation/StrokeLoader/)
 - [ScrollDownAnimation](https://sonwanseo.github.io/CSS-Animation/ScrollDownAnimation/)
+- [TextReveal](https://sonwanseo.github.io/CSS-Animation/TextReveal/)
