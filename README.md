@@ -24,3 +24,4 @@ CSS-Animation
 - [StrokeLoader](https://sonwanseo.github.io/CSS-Animation/StrokeLoader/)
 - [ScrollDownAnimation](https://sonwanseo.github.io/CSS-Animation/ScrollDownAnimation/)
 - [TextReveal](https://sonwanseo.github.io/CSS-Animation/TextReveal/)
+- [Loader2](https://sonwanseo.github.io/CSS-Animation/Loader2/)
