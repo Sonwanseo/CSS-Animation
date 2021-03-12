@@ -25,3 +25,4 @@ CSS-Animation
 - [ScrollDownAnimation](https://sonwanseo.github.io/CSS-Animation/ScrollDownAnimation/)
 - [TextReveal](https://sonwanseo.github.io/CSS-Animation/TextReveal/)
 - [Loader2](https://sonwanseo.github.io/CSS-Animation/Loader2/)
+- [LoadingPage](https://sonwanseo.github.io/CSS-Animation/LoadingPage/)
