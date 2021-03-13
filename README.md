@@ -26,3 +26,4 @@ CSS-Animation
 - [TextReveal](https://sonwanseo.github.io/CSS-Animation/TextReveal/)
 - [Loader2](https://sonwanseo.github.io/CSS-Animation/Loader2/)
 - [LoadingPage](https://sonwanseo.github.io/CSS-Animation/LoadingPage/)
+- [Heartbeat](https://sonwanseo.github.io/CSS-Animation/Heartbeat/)
