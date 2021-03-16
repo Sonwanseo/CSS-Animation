@@ -29,3 +29,4 @@ CSS-Animation
 - [Heartbeat](https://sonwanseo.github.io/CSS-Animation/Heartbeat/)
 - [Loading](https://sonwanseo.github.io/CSS-Animation/Loading/)
 - [LoadingProgress](https://sonwanseo.github.io/CSS-Animation/LoadingProgress/)
+- [GlowingStar](https://sonwanseo.github.io/CSS-Animation/GlowingStar/)
